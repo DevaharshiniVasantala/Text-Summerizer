@@ -1,1 +1,1 @@
-# Text-Summerizer
+This is a simple AI-based Text Summarizer built using Python. It allows users to input any long text and generates a concise summary using the LSA (Latent Semantic Analysis) algorithm from the sumy library. The number of summary sentences can be adjusted through a user-friendly interface, making it a practical tool for understanding basic natural language processing and text summarization techniques.
